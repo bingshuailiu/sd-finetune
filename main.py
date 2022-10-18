@@ -840,3 +840,6 @@ if __name__ == "__main__":
         data = instantiate_from_config(config.data)
         data.prepare_data()
         data.setup()
+
+        
+        
